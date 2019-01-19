@@ -1,0 +1,20 @@
+﻿@inherits BlazorLayoutComponent
+
+<div class="sidebar">
+    <NavMenu />
+</div>
+
+<div class="main">
+    <div class="top-row px-4 d-flex justify-content-end">
+        <div class="form-inline">
+            <NavLink class="nav-link  text-white" href="userlogin">
+                <span class="oi oi-account-login" aria-hidden="true"></span> Login
+            </NavLink>
+            <a href="http://blazor.net" target="_blank" class="text-white">About</a>
+        </div>
+    </div>
+
+    <div class="content px-4">
+        @Body
+    </div>
+</div>
