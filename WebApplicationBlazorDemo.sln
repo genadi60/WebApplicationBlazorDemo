@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationBlazorDemo.Server", "WebApplicationBlazorDemo.Server\WebApplicationBlazorDemo.Server.csproj", "{AF04A6DD-06C4-4EB3-A8B7-729907079838}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationBlazorDemo.Server", "WebApplicationBlazorDemo.Server\WebApplicationBlazorDemo.Server.csproj", "{AF04A6DD-06C4-4EB3-A8B7-729907079838}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationBlazorDemo.Client", "WebApplicationBlazorDemo.Client\WebApplicationBlazorDemo.Client.csproj", "{C8647E66-D6BA-4FC6-A1AB-367D25C62BCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationBlazorDemo.Client", "WebApplicationBlazorDemo.Client\WebApplicationBlazorDemo.Client.csproj", "{C8647E66-D6BA-4FC6-A1AB-367D25C62BCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationBlazorDemo.Shared", "WebApplicationBlazorDemo.Shared\WebApplicationBlazorDemo.Shared.csproj", "{EF85FAA2-A074-4611-AC49-8387D7015880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationBlazorDemo.Shared", "WebApplicationBlazorDemo.Shared\WebApplicationBlazorDemo.Shared.csproj", "{EF85FAA2-A074-4611-AC49-8387D7015880}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
