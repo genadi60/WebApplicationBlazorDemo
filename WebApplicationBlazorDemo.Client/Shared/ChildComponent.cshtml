@@ -1,0 +1,17 @@
+﻿
+<div class="card" style="width: 18rem;">
+    <div class="card-header font-weight-bold">@Title</div>
+    <div class="card-body">@ChildContent</div>
+</div>
+
+
+@functions
+{
+
+[Parameter]
+private string Title { get; set; }
+
+[Parameter]
+private RenderFragment ChildContent { get; set; }
+
+}
